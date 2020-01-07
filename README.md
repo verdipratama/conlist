@@ -1,4 +1,4 @@
-# conlist
+# Contacts
 A simple contacts list.
 
 ## Live Demo
