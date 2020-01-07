@@ -2,4 +2,4 @@
 A simple contacts list.
 
 ## Live Demo
-https://verdipratama.github.io/conlist/
+https://verdipratama.github.io/contacts/
